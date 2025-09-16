@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TUK\\2-2\\comg\\Comg\\Comg_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76D6C1E5-F5D8-4ABA-8A0F-60869A131FBE}|..\\Slice_Polygon\\Slice_Polygon.vcxproj|D:\\TUK\\2-2\\comg\\Comg\\Slice_Polygon\\polygon_slice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{137B07DC-2FDD-440E-B347-234B2365B4DF}|..\\Comg_26\\Comg_26.vcxproj|D:\\TUK\\2-2\\comg\\Comg\\Comg_26\\Comg_26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "polygon_slice.cpp",
+              "DocumentMoniker": "D:\\TUK\\2-2\\comg\\Comg\\Slice_Polygon\\polygon_slice.cpp",
+              "RelativeDocumentMoniker": "..\\Slice_Polygon\\polygon_slice.cpp",
+              "ToolTip": "D:\\TUK\\2-2\\comg\\Comg\\Slice_Polygon\\polygon_slice.cpp",
+              "RelativeToolTip": "..\\Slice_Polygon\\polygon_slice.cpp",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAAAOwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-05T21:15:06.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comg_26.cpp",
+              "DocumentMoniker": "D:\\TUK\\2-2\\comg\\Comg\\Comg_26\\Comg_26.cpp",
+              "RelativeDocumentMoniker": "..\\Comg_26\\Comg_26.cpp",
+              "ToolTip": "D:\\TUK\\2-2\\comg\\Comg\\Comg_26\\Comg_26.cpp",
+              "RelativeToolTip": "..\\Comg_26\\Comg_26.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvzUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T19:38:37.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

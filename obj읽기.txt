@@ -1,0 +1,2 @@
+face정보를 각각 읽어 -> vertexface, vtface, vnface
+인덱스 순서로 재배열.

@@ -1,0 +1,3 @@
+﻿  Comg_1.cpp
+D:\TUK\2-2\comg\Comg\Comg_1\Comg_1.cpp(19,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Comg_1.vcxproj -> D:\TUK\2-2\comg\Comg\Comg_1\x64\Debug\Comg_1.exe

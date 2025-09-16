@@ -1,0 +1,11 @@
+﻿  Comg_16.cpp
+D:\TUK\2-2\comg\Comg\Comg_16\Comg_16.cpp(402,25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_16\Comg_16.cpp(408,25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_16\Comg_16.cpp(435,25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_16\Comg_16.cpp(436,25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_16\Comg_16.cpp(467,24): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_16\Comg_16.cpp(468,24): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_16\Comg_16.cpp(603,14): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+D:\TUK\2-2\comg\Comg\Comg_16\Comg_16.cpp(606,14): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+D:\TUK\2-2\comg\Comg\Comg_16\Comg_16.cpp(609,14): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  Comg_16.vcxproj -> D:\TUK\2-2\comg\Comg\Comg_1\x64\Debug\Comg_16.exe

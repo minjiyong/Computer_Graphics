@@ -1,0 +1,10 @@
+﻿  Comg_19.cpp
+D:\TUK\2-2\comg\Comg\Comg_19\Comg_19.cpp(418,27): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_19\Comg_19.cpp(419,27): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_19\Comg_19.cpp(420,27): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_19\Comg_19.cpp(427,27): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_19\Comg_19.cpp(428,27): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_19\Comg_19.cpp(449,32): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_19\Comg_19.cpp(450,32): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_19\Comg_19.cpp(455,24): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Comg_19.vcxproj -> D:\TUK\2-2\comg\Comg\Comg_1\x64\Debug\Comg_19.exe

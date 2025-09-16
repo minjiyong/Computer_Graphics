@@ -1,0 +1,12 @@
+﻿  Comg_5.cpp
+D:\TUK\2-2\comg\Comg\Comg_5\Comg_5.cpp(76,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\TUK\2-2\comg\Comg\Comg_5\Comg_5.cpp(128,11): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_5\Comg_5.cpp(129,11): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_5\Comg_5.cpp(135,24): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_5\Comg_5.cpp(135,21): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_5\Comg_5.cpp(157,25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_5\Comg_5.cpp(157,22): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_5\Comg_5.cpp(166,10): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_5\Comg_5.cpp(167,10): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_5\Comg_5.cpp(192,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Comg_5.vcxproj -> D:\TUK\2-2\comg\Comg\Comg_1\x64\Debug\Comg_5.exe

@@ -1,0 +1,4 @@
+변환 하면 하나의 도형이 된다 -> 거기서 또 변환해
+
+world * translate * rotate * scale * translate * rotate * scale * 기준
+월드		부모			자식

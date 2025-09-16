@@ -1,0 +1,7 @@
+﻿  Comg_25.cpp
+D:\TUK\2-2\comg\Comg\Comg_25\Comg_25.cpp(676,37): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TUK\2-2\comg\Comg\Comg_25\Comg_25.cpp(677,25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Importer.cpp
+  ShaderProgram.cpp
+  코드를 생성하고 있습니다...
+  Comg_25.vcxproj -> D:\TUK\2-2\comg\Comg\Comg_1\x64\Debug\Comg_25.exe

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TUK\\2-2\\comg\\Comg\\Comg_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{137B07DC-2FDD-440E-B347-234B2365B4DF}|..\\Comg_26\\Comg_26.vcxproj|D:\\TUK\\2-2\\comg\\Comg\\Comg_26\\Comg_26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Comg_26.cpp",
+              "DocumentMoniker": "D:\\TUK\\2-2\\comg\\Comg\\Comg_26\\Comg_26.cpp",
+              "RelativeDocumentMoniker": "..\\Comg_26\\Comg_26.cpp",
+              "ToolTip": "D:\\TUK\\2-2\\comg\\Comg\\Comg_26\\Comg_26.cpp",
+              "RelativeToolTip": "..\\Comg_26\\Comg_26.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T19:38:37.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

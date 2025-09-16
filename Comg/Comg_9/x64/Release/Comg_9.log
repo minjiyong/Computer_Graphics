@@ -1,0 +1,25 @@
+﻿Comg_9.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewBindVertexArray
+Comg_9.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewUseProgram
+Comg_9.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewGetUniformLocation
+Comg_9.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewUniformMatrix4fv
+Comg_9.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glewExperimental
+Comg_9.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glewInit
+Comg_9.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewUniform3fv
+Importer.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewEnableVertexAttribArray
+Importer.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewVertexAttribPointer
+Importer.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewBindBuffer
+Importer.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewBufferData
+Importer.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewGenVertexArrays
+Importer.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewGenBuffers
+ShaderProgram.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewGetShaderiv
+ShaderProgram.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewCompileShader
+ShaderProgram.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewCreateShader
+ShaderProgram.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewCreateProgram
+ShaderProgram.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewGetShaderInfoLog
+ShaderProgram.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewGetProgramiv
+ShaderProgram.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewAttachShader
+ShaderProgram.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewShaderSource
+ShaderProgram.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewGetProgramInfoLog
+ShaderProgram.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewDeleteShader
+ShaderProgram.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glewLinkProgram
+D:\TUK\2-2\comg\Comg\Comg_1\x64\Release\Comg_9.exe : fatal error LNK1120: 24개의 확인할 수 없는 외부 참조입니다.
